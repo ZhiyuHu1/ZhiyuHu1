@@ -1,0 +1,8 @@
+CPI,Instance#,batch_size=1,batch_size=2,batch_size=4,batch_size=8,batch_size=16,batch_size=32,batch_size=64,batch_size=128
+cores_per_instance=1,Instance#=64,111,111,111,111,111,111,111,111
+cores_per_instance=2,Instance#=32,222,222,222,222,222,222,222,222
+cores_per_instance=4,Instance#=16,333,333,333,333,333,333,333,333
+cores_per_instance=8,Instance#=8,555,555,555,555,555,555,555,555
+cores_per_instance=16,Instance#=4,666,666,666,666,666,666,666,666
+cores_per_instance=32,Instance#=2,777,777,777,777,777,777,777,777
+cores_per_instance=64,Instance#=1,888,888,888,888,888,888,888,888
